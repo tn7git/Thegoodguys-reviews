@@ -22,7 +22,7 @@ function App() {
 
   // =========================== Function to fetch reviews data from reviews.json file ===========================
   const fetchReviews = () => {
-    fetch('/reviews.json') // Fetch reviews data from reviews.json in public folder
+    fetch('https://tn7git.github.io/Thegoodguys-reviews/reviews.json') // Fetch reviews data from reviews.json in public folder
       .then(response => response.json()) // Parse response JSON
       .then(data => {
         setReviews(data); // Set reviews data to state
