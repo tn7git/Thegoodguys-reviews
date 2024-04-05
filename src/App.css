@@ -1,0 +1,20 @@
+.App {
+  padding: 0 20px;
+}
+
+.reviews-container{
+  border-top: solid 1px #282c34;
+  margin-top: 20px;
+}
+
+.review{
+  padding: 5px;
+}
+.review:nth-child(odd){
+  background-color: #f3fbfc;
+}
+.space_between{
+  display: flex;
+  justify-content: space-between;
+}
+
