@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Thegoodguys-reviews/static/css/main.b11c018b.css",
-    "main.js": "/Thegoodguys-reviews/static/js/main.35834448.js",
+    "main.js": "/Thegoodguys-reviews/static/js/main.bd03fe7a.js",
     "static/js/453.474733d3.chunk.js": "/Thegoodguys-reviews/static/js/453.474733d3.chunk.js",
     "index.html": "/Thegoodguys-reviews/index.html",
     "main.b11c018b.css.map": "/Thegoodguys-reviews/static/css/main.b11c018b.css.map",
-    "main.35834448.js.map": "/Thegoodguys-reviews/static/js/main.35834448.js.map",
+    "main.bd03fe7a.js.map": "/Thegoodguys-reviews/static/js/main.bd03fe7a.js.map",
     "453.474733d3.chunk.js.map": "/Thegoodguys-reviews/static/js/453.474733d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b11c018b.css",
-    "static/js/main.35834448.js"
+    "static/js/main.bd03fe7a.js"
   ]
 }
